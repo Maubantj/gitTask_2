@@ -6,7 +6,7 @@ The system is aimed at managing inventory for a retail company that sells sneake
 ## Table of Contents
 1. Installation section
 2. Usage section
-3. 
+3. Credits
 
 ## Installation section
 1. You need to install an application called VS code from your web browser. This application runs python files.
@@ -29,6 +29,9 @@ The system is aimed at managing inventory for a retail company that sells sneake
 6. This will display a menu, which you need to interact with.
    
    ![image](https://github.com/user-attachments/assets/c4fe90c8-b960-4b90-899a-cda18e71b757)
+
+## Credits
+This file was created by only Tshepo Maubane.
    
 
    
