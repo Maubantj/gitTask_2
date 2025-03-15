@@ -14,3 +14,4 @@ The system is aimed at managing inventory for a retail company that sells sneake
 2. Once you have VS Code install, please download the inventroy.py and inventory.txt on your local repositroy(you can select any directory of your choice).
 
 ## Usage Instructions
+![image](https://github.com/user-attachments/assets/29aa36b0-ae8a-41b1-9058-c94fc6d6c7e9)
