@@ -10,8 +10,8 @@ The system is aimed at managing inventory for a retail company that sells sneake
 
 ## Installation section
 1. You need to install an application called VS code from your web browser. This application runs python files.
-2. Once you have VS Code installed, please download the inventory_management directory on your local repositroy(you can select any directory of your choice).
-3. The inventory_management folder contains four files,
+2. Once you have VS Code installed, please download the _inventory_management_ directory on your local repository(you can select any directory of your choice).
+3. The _inventory_management_ folder contains four files,
       _inventory.py_ - python file which contains the inventory management program.
       _inventory_backup.py_ - backup copy of inventory.py.
       _inventory.txt_ - database containing inventory records.
