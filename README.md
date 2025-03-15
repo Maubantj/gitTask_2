@@ -23,3 +23,9 @@ The system is aimed at managing inventory for a retail company that sells sneake
    ![image](https://github.com/user-attachments/assets/abb19cef-ae34-4730-b553-171cc396dbf4)
 3. Open the _inventory.py_.
    ![image](https://github.com/user-attachments/assets/1b50100b-6bd4-43b0-9348-97b7de529c9b)
+3. Click run and debug.
+   ![image](https://github.com/user-attachments/assets/79da58fc-dc0a-4cce-bd18-c1708810a012)
+4. This will display a menu, which you need to interact with.
+   ![image](https://github.com/user-attachments/assets/c4fe90c8-b960-4b90-899a-cda18e71b757)
+
+   
